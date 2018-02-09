@@ -2,36 +2,38 @@
 
 TODO
 
-## extras by zaso
+## extras by [zaso](http://www.giacintogarcea.com/ingress/items/)
 
-  * [zaso's site](http://www.giacintogarcea.com/ingress/items/)
-    * [font-awesome-by-zaso](http://www.giacintogarcea.com/ingress/iitc/font-awesome-by-zaso.user.js)
-    * [bring-portals-to-front-by-zaso](http://www.giacintogarcea.com/ingress/iitc/bring-portals-to-front-by-zaso.user.js)
-    * [decay-calculator-by-zaso](http://www.giacintogarcea.com/ingress/iitc/decay-calculator-by-zaso.user.js)
-    * [portal-hack-range-by-zaso](http://www.giacintogarcea.com/ingress/iitc/portal-hack-range-by-zaso.user.js)
-    * [last-action-timestamp-by-zaso](http://www.giacintogarcea.com/ingress/iitc/last-action-timestamp-by-zaso.user.js)
-    * [localstorage-manager-by-zaso](http://www.giacintogarcea.com/ingress/iitc/localstorage-manager-by-zaso.user.js)
+  * [font-awesome-by-zaso](http://www.giacintogarcea.com/ingress/iitc/font-awesome-by-zaso.user.js)
+  * [bring-portals-to-front-by-zaso](http://www.giacintogarcea.com/ingress/iitc/bring-portals-to-front-by-zaso.user.js)
+  * [decay-calculator-by-zaso](http://www.giacintogarcea.com/ingress/iitc/decay-calculator-by-zaso.user.js)
+  * [portal-hack-range-by-zaso](http://www.giacintogarcea.com/ingress/iitc/portal-hack-range-by-zaso.user.js)
+  * [last-action-timestamp-by-zaso](http://www.giacintogarcea.com/ingress/iitc/last-action-timestamp-by-zaso.user.js)
+  * [localstorage-manager-by-zaso](http://www.giacintogarcea.com/ingress/iitc/localstorage-manager-by-zaso.user.js)
 
 ### MPE
 
-  * [multi-projects-extension-by-zaso](http://www.giacintogarcea.com/ingress/iitc/multi-projects-extension-by-zaso.user.js)
+These plugins allow you to organize projects
+
+  * [multi-projects-extension-by-zaso](http://www.giacintogarcea.com/ingress/iitc/multi-projects-extension-by-zaso.user.js) - the base
   * [mpe-bookmarks-by-zaso](http://www.giacintogarcea.com/ingress/iitc/mpe-bookmarks-by-zaso.user.js)
   * [draw-tools-plus-by-zaso](http://www.giacintogarcea.com/ingress/iitc/draw-tools-plus-by-zaso.user.js)
 
 ### desktop only
+
+A few plugins that are really cool on a desktop, but don't work on mobile
 
   * [hide-ui-by-zaso](http://www.giacintogarcea.com/ingress/iitc/hide-ui-by-zaso.user.js)
   * [pocket-portal-details-by-zaso](http://www.giacintogarcea.com/ingress/iitc/pocket-portal-details-by-zaso.user.js)
   * [free-sidebar-by-zaso](http://www.giacintogarcea.com/ingress/iitc/free-sidebar-by-zaso.user.js)
   * [layers-profiles-by-zaso](http://www.giacintogarcea.com/ingress/iitc/layers-profiles-by-zaso.user.js)
 
-## extras by Eccenux
+## extras by [Eccenux](https://github.com/search?q=user%3AEccenux+iitc-plugin&type=Repositories)
 
-  * [Eccenux plugins](https://github.com/search?q=user%3AEccenux+iitc-plugin&type=Repositories)
-    * [drawtools-mobile](https://github.com/Eccenux/iitc-plugin-draw-tools-mobile/raw/master/draw-tools-mobile.user.js) - pulls in the updated leaflet to work on mobile
-    * [zoom-tools](https://github.com/Eccenux/iitc-plugin-zoom-tools/raw/master/zoom-tools.user.js) - portal, level, region quick zooms
-    * [layers-selector](https://github.com/Eccenux/iitc-plugin-layers-selector/raw/master/layers-selector.user.js) - hide/show portals by level
-    * [quick-portal-click](https://github.com/Eccenux/iitc-plugin-quick-portal-click/raw/master/quick-portal-click.user.js) - avoid zooms when you're clicking on a portal
+  * [drawtools-mobile](https://github.com/Eccenux/iitc-plugin-draw-tools-mobile/raw/master/draw-tools-mobile.user.js) - pulls in the updated leaflet to work on mobile
+  * [zoom-tools](https://github.com/Eccenux/iitc-plugin-zoom-tools/raw/master/zoom-tools.user.js) - portal, level, region quick zooms
+  * [layers-selector](https://github.com/Eccenux/iitc-plugin-layers-selector/raw/master/layers-selector.user.js) - hide/show portals by level
+  * [quick-portal-click](https://github.com/Eccenux/iitc-plugin-quick-portal-click/raw/master/quick-portal-click.user.js) - avoid zooms when you're clicking on a portal
 
 ## extras by hansolo669
 
